@@ -40,7 +40,7 @@
     "web": {
       "display": "fullscreen",
       "themeColor": "#000000",
-      "orientation": "landscape",
+      "orientation": "landscape"
     },
     "icon": "./assets/app/icon.png",
     "name": "VIP Couponz Website Copy",
@@ -50,6 +50,7 @@
         "projectId": ""
       }
     },
+    "owner": "rahulshukla",
     "scheme": "untitled-app",
     "splash": {
       "image": "./assets/app/splash.png",
