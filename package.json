@@ -18,7 +18,6 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "@expo/webpack-config":"~19.0.1",
     "@draftbit/ui": "51.2.7",
     "@expo/dev-server": "0.5.5",
     "@expo/html-elements": "^0.5.1",
