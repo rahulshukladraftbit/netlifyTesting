@@ -40,7 +40,8 @@
     "web": {
       "display": "fullscreen",
       "themeColor": "#000000",
-      "orientation": "landscape"
+      "orientation": "landscape",
+      "bundler": "webpack"      
     },
     "icon": "./assets/app/icon.png",
     "name": "VIP Couponz Website Copy",
